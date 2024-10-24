@@ -43,7 +43,7 @@
     "core-js": "^2.4.1",
     "element-ui": "^2.2.0",
     "normalize.css": "^5.0.0",
-    "vue": "2.5.2"
+    "vue": "3.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.5.3",
